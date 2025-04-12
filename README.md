@@ -8,7 +8,7 @@ This project allows you to create a simple audio graph with the Web Audio API th
 
 ## Try it Out
 
-You can try out the latest version on GitHub Pages here: [https://fluffyloaf254.github.io/web-audio-maker/](https://fluffyloaf254.github.io/web-audio-maker/)
+You can try out the latest version on GitHub Pages here: [https://polygonal-stew.github.io/web-audio-maker/](https://polygonal-stew.github.io/web-audio-maker/)
 
 To run the project locally:
 
